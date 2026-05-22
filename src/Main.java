@@ -38,7 +38,7 @@ public class Main {
 
         // ------------------------------------------------------------------
 
-        // SEGUNDA PARTE: Compulsa de técnicas algorítmicas
+        // SEGUNDA PARTE: Técnicas algorítmicas
 
         System.out.println("\n--- Segunda Parte: Asignación de paquetes a camiones ---\n");
 
